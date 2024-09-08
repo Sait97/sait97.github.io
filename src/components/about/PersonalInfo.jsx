@@ -10,6 +10,7 @@ const personalInfoContent = [
   { meta: "phone", metaInfo: "+359895774959" },
   { meta: "Email", metaInfo: "Sait97@abv.bg" },
   { meta: "langages", metaInfo: "Bulgarian, English" },
+  { meta: "Experiance", metaInfo: "4+ years" },
 ];
 
 const PersonalInfo = () => {
