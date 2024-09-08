@@ -3,7 +3,7 @@ import React from "react";
 const personalInfoContent = [
   { meta: "first name", metaInfo: "Sait" },
   { meta: "last name", metaInfo: "Chaush" },
-  { meta: "Age", metaInfo: "25 Years" },
+  { meta: "Age", metaInfo: "27 Years" },
   { meta: "Nationality", metaInfo: "Bulgaria" },
   { meta: "Freelance", metaInfo: "Available" },
   { meta: "Address", metaInfo: "Plovdiv" },
