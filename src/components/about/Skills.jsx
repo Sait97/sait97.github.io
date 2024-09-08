@@ -1,17 +1,17 @@
 import React from "react";
 
 const skillsContent = [
-  { skillClass: "p95", skillPercent: "100", skillName: "HTML" },
-  { skillClass: "p70", skillPercent: "100", skillName: "JAVASCRIPT" },
-  { skillClass: "p80", skillPercent: "100", skillName: "CSS" },
-  { skillClass: "p80", skillPercent: "95", skillName: "SCSS" },
-  { skillClass: "p30", skillPercent: "88", skillName: "PHP" },
-  { skillClass: "p75", skillPercent: "100", skillName: "WORDPRESS" },
-  { skillClass: "p30", skillPercent: "95", skillName: "JQUERY" },
-  { skillClass: "p20", skillPercent: "50", skillName: "EXPRESS" },
+  { skillClass: "p100", skillPercent: "100", skillName: "HTML" },
+  { skillClass: "p100", skillPercent: "100", skillName: "JAVASCRIPT" },
+  { skillClass: "p100", skillPercent: "100", skillName: "CSS" },
+  { skillClass: "p95", skillPercent: "95", skillName: "SCSS" },
+  { skillClass: "p88", skillPercent: "88", skillName: "PHP" },
+  { skillClass: "p100", skillPercent: "100", skillName: "WORDPRESS" },
+  { skillClass: "p95", skillPercent: "95", skillName: "JQUERY" },
+  { skillClass: "p50", skillPercent: "50", skillName: "EXPRESS" },
   { skillClass: "p45", skillPercent: "45", skillName: "REACT" },
-  { skillClass: "p45", skillPercent: "60", skillName: "VUE" },
-  { skillClass: "p45", skillPercent: "30", skillName: "LARAVEL" },
+  { skillClass: "p60", skillPercent: "60", skillName: "VUE" },
+  { skillClass: "p30", skillPercent: "30", skillName: "LARAVEL" },
 ];
 
 const Skills = () => {
